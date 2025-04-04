@@ -36,6 +36,6 @@ El objetivo de esta práctica es comprender el proceso de medición física, el 
 ## Créditos
 
 Práctica realizada por:  
-**SNEYDER BUITRAGO**
-**ALEJANDRO BECERRA**
-**Laboratorio Integrado de Física – 2025**
+#### **SNEYDER BUITRAGO**
+#### **ALEJANDRO BECERRA**
+#### **Laboratorio Integrado de Física – 2025**
